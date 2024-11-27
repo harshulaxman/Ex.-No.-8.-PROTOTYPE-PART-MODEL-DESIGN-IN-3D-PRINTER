@@ -49,7 +49,7 @@ Step 7.:- After generating the gcode format then follow the these instruction as
 7.	Open the file from the USB storage and select the Print option.
 
 ### Output:
-https://github.com/user-attachments/assets/9cfbe7c7-c29d-4026-aaf0-c0e489129d48
+![{EB6A48B8-8F08-4778-B8B5-C26798E9F0EE}](https://github.com/user-attachments/assets/9cfbe7c7-c29d-4026-aaf0-c0e489129d48)
 
 #### Name: Harsshitha lakshmanan
 #### Register Number: 212223230075
