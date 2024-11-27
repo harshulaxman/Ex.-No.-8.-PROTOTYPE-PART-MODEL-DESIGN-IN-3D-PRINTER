@@ -49,7 +49,7 @@ Step 7.:- After generating the gcode format then follow the these instruction as
 7.	Open the file from the USB storage and select the Print option.
 
 ### Output:
-![empd_3](https://github.com/user-attachments/assets/aabc463d-9d8d-4aca-9e85-543bf6e1f96c)
+https://github.com/user-attachments/assets/9cfbe7c7-c29d-4026-aaf0-c0e489129d48
 
 #### Name: Harsshitha lakshmanan
 #### Register Number: 212223230075
